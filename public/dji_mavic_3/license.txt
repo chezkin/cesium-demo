@@ -1,0 +1,11 @@
+Model Information:
+* title:	DJI Mavic 3
+* source:	https://sketchfab.com/3d-models/dji-mavic-3-c5a5abae1dea468ab73b1bdc7d616fa6
+* author:	llirikslon (https://sketchfab.com/llirikslon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DJI Mavic 3" (https://sketchfab.com/3d-models/dji-mavic-3-c5a5abae1dea468ab73b1bdc7d616fa6) by llirikslon (https://sketchfab.com/llirikslon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,63 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cesium-viewer-timelineContainer {
+  background-color: #333 !important; /* שנה את הרקע של ה-timeline */
+  border-radius: 10px; /* שנה את הפינות של ה-timeline */
+}
+
+.cesium-timeline-bar {
+  background-color: #555 !important; /* שנה את הצבע של ה-bar */
+}
+
+.cesium-credit-textContainer,
+.cesium-credit-logoContainer {
+  display: none !important;
+}
+
+.cesium-viewer-toolbar .cesium-button.cesium-home-button {
+  background-color: #ff0000 !important; /* שנה את הצבע של כפתור המרכוז */
+  border-radius: 50% !important; /* שנה את הפינות של הכפתור */
+  width: 40px !important;
+  height: 40px !important;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
